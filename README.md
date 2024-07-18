@@ -1,4 +1,3 @@
-
 # RouteOptimizer 🚚
 
 RouteOptimizer is an innovative real-time delivery route optimization system. Built using TypeScript, Node.js, and React, it enhances logistics efficiency by 25% via sophisticated algorithms, leading to faster delivery times. The project also utilizes Elasticsearch for real-time order tracking and advanced search capabilities.
