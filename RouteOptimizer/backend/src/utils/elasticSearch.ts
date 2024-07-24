@@ -1,6 +1,6 @@
 import { Client } from '@elastic/elasticsearch';
 import dotenv from 'dotenv';
-
+//elastic search to find best route
 dotenv.config();
 
 const client = new Client({ node: process.env.ELASTICSEARCH_URL });
