@@ -67,7 +67,7 @@ cd RouteOptimizer
 3. Use the **Route Optimizer** to get optimized delivery routes.
 4. Use the **Search Orders** feature to search for orders by customer name or address.
 
-## Contributing 🤝
+## Contributing 🤝🏻
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/RouteOptimizer/issues).
 
 **Build with ❤️**
