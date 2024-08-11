@@ -10,6 +10,7 @@ RouteOptimizer is an innovative real-time delivery route optimization system. Bu
 - **Advanced Search Capabilities**: Allows advanced search through orders, improving search efficiency by 40% and operational visibility by 30%.
 
 ## Tech Stack 🛠️
+
 - **Frontend**: React, TypeScript
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: MongoDB
