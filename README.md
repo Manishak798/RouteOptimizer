@@ -62,7 +62,7 @@ cd RouteOptimizer
     npm start
     ```
 
-## Usage 📝
+## Usage 📝 
 1. Open your browser and navigate to `http://localhost:3000`.
 2. Use the **Order Tracker** to view all orders and their statuses.
 3. Use the **Route Optimizer** to get optimized delivery routes.
